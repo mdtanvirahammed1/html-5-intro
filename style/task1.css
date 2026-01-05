@@ -1,0 +1,7 @@
+.v-line{
+    width: 2px;
+    height: 100vh;
+
+    background-color: black;
+    margin: auto;
+}
