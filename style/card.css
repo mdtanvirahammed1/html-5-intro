@@ -1,6 +1,5 @@
 body{
     max-width: 1170px;
-
     margin: 0 auto;
 }
 .card-section{
@@ -18,7 +17,8 @@ body{
     border-radius: 10px;
     text-align: left;
     padding: 10px;
-    box-shadow: 10px 10px 10px 10px rgb(212, 102, 102);
+    box-shadow: 10px 10px 10px 10px rgb(80, 75, 75);
+
 
 }
 card:hover{

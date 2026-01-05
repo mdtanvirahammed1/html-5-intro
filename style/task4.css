@@ -1,0 +1,33 @@
+body{
+    max-width: 1170px;
+    background-color: rgb(156, 241, 206);
+    margin:0 auto;
+}
+.class-section{
+    text-align: center;
+}
+.card-container{
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 300px;
+    border: 2px solid sandybrown;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 5px rgb(150, 145, 145);
+}
+.card:hover{
+    background-color: rgb(204, 154, 154);
+}
+.card h3{
+     font-size: 1.25em;
+     font-weight: 700;
+}
+.card img{
+    width: 100%;
+    border-radius: 50%;
+
+}
